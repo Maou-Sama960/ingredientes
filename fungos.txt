@@ -1,1 +1,10 @@
-"estou aprendendo a utilizar o git e github para controlar as versäesdos mesus algoritimos"  
+git: local onde é salvo estados dos arquivos
+git status: mostra o que está salvo no git
+git init: inserir a git
+git add: inserir um arquivo na git
+git config --global user.email: configurar email
+git config --global user.name: configurar nome
+git commit -m: deixar uma mensagem pra próxima pessoa
+git log: usado para ver a ultima pessoa que modificou o git
+git branch -M :mudar o modelo de "master" para outro  
+echo: salvar arquivos com texto 
