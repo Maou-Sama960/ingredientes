@@ -8,3 +8,4 @@ git commit -m: deixar uma mensagem pra próxima pessoa
 git log: usado para ver a ultima pessoa que modificou o git
 git branch -M :mudar o modelo de "master" para outro  
 echo: salvar arquivos com texto 
+git push -u origin main: atualizar no github
